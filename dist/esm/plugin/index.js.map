@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/plugin/index.ts"],"names":[],"mappings":"AAAA,cAAc,UAAU,CAAC;AACzB,OAAO,EAAC,YAAY,EAAC,MAAM,WAAW,CAAC","sourcesContent":["export * from './models';\nexport {NativePlugin} from './factory';\n"]}

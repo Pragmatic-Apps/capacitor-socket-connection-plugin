@@ -1,0 +1,1 @@
+{"version":3,"file":"types.js","sourceRoot":"","sources":["../../src/types.ts"],"names":[],"mappings":"","sourcesContent":["export interface SocketOptions {}\n\nexport type SocketData = Uint8Array;\n\nexport type OnSocketData = (data: SocketData) => void;\nexport type OnSocketClose = () => void;\nexport type OnSocketError = (error: unknown) => void;\n"]}
